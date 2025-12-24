@@ -12,7 +12,7 @@
 <p align="center">
   <a href="mailto:aliasgharwilliamparandoosh@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-00E6FF?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/aliasghar-paran-327295373" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://ali-s-portfolio.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Open-00E6FF?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://aliasghar-parandoush.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Open-00E6FF?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://t.me/blazeburst311" target="_blank"><img src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
